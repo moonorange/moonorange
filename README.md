@@ -4,7 +4,11 @@ Thank you for visiting my profile.
 
 My name is Keigo and I'm a software engineer living in Japan.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonorange&hide=jupyter-notebook,html,css,javascript,ruby)](https://github.com/moonorange/github-readme-stats)
+- I'm currently a backend engineer using Go
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/keigo-k-70557314b/)
+- My Blog: https://moonorange.github.io/
+- 😄 Pronouns: he/him
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -15,3 +19,6 @@ My name is Keigo and I'm a software engineer living in Japan.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>          
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonorange&hide=jupyter-notebook,html,css,javascript,ruby)](https://github.com/moonorange/github-readme-stats)
