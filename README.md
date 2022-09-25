@@ -4,6 +4,7 @@ Thank you for visiting my profile.
 
 My name is Keigo and I'm a software engineer living in Japan.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonorange&hide=jupyter-notebook)](https://github.com/moonorange/github-readme-stats)
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
