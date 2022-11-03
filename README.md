@@ -1,3 +1,6 @@
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonorange&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)-->
+![trophy](https://github-profile-trophy.vercel.app/?username=moonorange&theme=onedark)
+
 ### Hi there 👋
 
 Thank you for visiting my profile.
@@ -8,6 +11,7 @@ My name is Keigo and I'm a software engineer living in Japan.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/keigo-k-70557314b/)
 - My Blog: https://moonorange.github.io/
 - 😄 Pronouns: he/him
+
 
 ### 🛠 &nbsp;Languages and Tools :
 
