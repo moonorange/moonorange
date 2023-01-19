@@ -7,7 +7,7 @@ Thank you for visiting my profile.
 
 My name is Keigo and I'm a software engineer living in Japan.
 
-- I'm currently a backend engineer using Go
+- Backend engineer with 3 years of experience
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/keigo-k-70557314b/)
 - My Blog: https://moonorange.github.io/
 - 😄 Pronouns: he/him
