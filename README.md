@@ -1,6 +1,3 @@
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonorange&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)-->
-![trophy](https://github-profile-trophy.vercel.app/?username=moonorange&theme=onedark)
-
 ### Hi there 👋
 
 Thank you for visiting my profile.
