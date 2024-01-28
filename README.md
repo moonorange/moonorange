@@ -2,9 +2,9 @@
 
 Thank you for visiting my profile.
 
-My name is Keigo and I'm a software engineer living in Japan.
+My name is Keigo and I'm a software engineer from Japan.
 
-- Backend engineer with 3 years of experience
+- Backend engineer with 4 years of experience
 - My Blog: https://moonorange.hashnode.dev
 - 😄 Pronouns: he/him
 
