@@ -21,3 +21,8 @@ My name is Keigo and I'm a software engineer from Japan.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
           
+### Contributions
+
+https://github.com/arminc/terraform-ecs/pulls?q=is%3Apr+is%3Aclosed+author%3Amoonorange
+
+https://github.com/yourlabs/django-autocomplete-light/pulls?q=is%3Apr+is%3Aclosed+author%3Amoonorange
