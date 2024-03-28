@@ -27,10 +27,12 @@ My name is Keigo and I'm a software engineer from Japan.
 <summary>oss</summary>
 
   Contributions
+
   
+
 - [Refine the .circleci/config.yml by using dynamic config](https://github.com/redis/rueidis/pull/517)
 - [Improve unit test coverage in command.go](https://github.com/redis/rueidis/pull/514)
-- [DistributeLock API: standardize err msgs](https://github.com/dapr/dapr/pull/7631)
+- [DistributeLock API: standardize err msgs and add integration tests](https://github.com/dapr/dapr/pull/7631)
 - [Fix comment of ViewMixin class](https://github.com/yourlabs/django-autocomplete-light/pull/1231)
 - [fix: full form of ecs](https://github.com/arminc/terraform-ecs/pull/50)
 
