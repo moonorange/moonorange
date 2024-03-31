@@ -5,7 +5,7 @@ Thank you for visiting my profile.
 My name is Keigo and I'm a software engineer from Japan.
 
 - Backend engineer with 4 years of experience
-- My Blog: https://moonorange.hashnode.dev
+- My Blog: [Kei's Blog](https://moonorange.github.io/)
 - 😄 Pronouns: he/him
 
 
