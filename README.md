@@ -24,11 +24,7 @@ My name is Keigo and I'm a software engineer from Japan.
 ### OSS
 
 <details>
-<summary>oss</summary>
-
-  Contributions
-
-  
+<summary>Contributions</summary>
 
 - [Refine the .circleci/config.yml by using dynamic config](https://github.com/redis/rueidis/pull/517)
 - [Improve unit test coverage in command.go](https://github.com/redis/rueidis/pull/514)
@@ -36,7 +32,10 @@ My name is Keigo and I'm a software engineer from Japan.
 - [Fix comment of ViewMixin class](https://github.com/yourlabs/django-autocomplete-light/pull/1231)
 - [fix: full form of ecs](https://github.com/arminc/terraform-ecs/pull/50)
 
-Co-Creator
+</details>
+
+<details>
+<summary>Co-Creator</summary>
 
 Python library to transform pixel coordinates to latitude and longitude, and vice versa.
 - https://github.com/sagri-tokyo/coords-transformer
