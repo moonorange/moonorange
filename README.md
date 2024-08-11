@@ -29,6 +29,7 @@ My name is Keigo and I'm a software engineer from Japan.
 - [Refine the .circleci/config.yml by using dynamic config](https://github.com/redis/rueidis/pull/517)
 - [Improve unit test coverage in command.go](https://github.com/redis/rueidis/pull/514)
 - [DistributeLock API: standardize err msgs and add integration tests](https://github.com/dapr/dapr/pull/7631)
+- [Retry Updating an aws_iot_topic_rule resource on temporary IAM exception](https://github.com/hashicorp/terraform-provider-aws/pull/36286)
 - [Fix comment of ViewMixin class](https://github.com/yourlabs/django-autocomplete-light/pull/1231)
 - [fix: full form of ecs](https://github.com/arminc/terraform-ecs/pull/50)
 
