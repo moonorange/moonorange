@@ -20,24 +20,8 @@ My name is Keigo and I'm a software engineer from Japan.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
 
-### OSS
+### Contributions
+  
+[Public Contributions](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Amoonorange+-user%3Amoonorange&type=pullrequests&p=1)
 
-<details>
-<summary>Contributions</summary>
-
-- [Refine the .circleci/config.yml by using dynamic config](https://github.com/redis/rueidis/pull/517)
-- [Improve unit test coverage in command.go](https://github.com/redis/rueidis/pull/514)
-- [Retry Updating an aws_iot_topic_rule resource on temporary IAM exception](https://github.com/hashicorp/terraform-provider-aws/pull/36286)
-- [Fix comment of ViewMixin class](https://github.com/yourlabs/django-autocomplete-light/pull/1231)
-- [fix: full form of ecs](https://github.com/arminc/terraform-ecs/pull/50)
-
-</details>
-
-<details>
-<summary>Co-Creator</summary>
-
-Python library to transform pixel coordinates to latitude and longitude, and vice versa.
-- https://github.com/sagri-tokyo/coords-transformer
-
-</details>
 
