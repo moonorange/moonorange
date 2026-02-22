@@ -2,11 +2,7 @@
 
 Thank you for visiting my profile.
 
-My name is Keigo and I'm a software engineer from Japan.
-
-- Backend engineer with 4 years of experience
-- 😄 Pronouns: he/him
-
+Backend Engineer with 5 years of experience from Japan, having worked across Japan and India, and currently based in Germany. I build reliable, high-scale services and specialize in Go, Python, and AWS. I have a strong interest in distributed systems, databases, and scalable architecture.
 
 ### 🛠 &nbsp;Languages and Tools :
 
