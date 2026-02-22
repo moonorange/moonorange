@@ -2,7 +2,8 @@
 
 Thank you for visiting my profile.
 
-Backend Engineer with 5 years of experience from Japan, having worked across Japan and India, and currently based in Germany. I build reliable, high-scale services and specialize in Go, Python, and AWS. I have a strong interest in distributed systems, databases, and scalable architecture.
+Senior Backend Engineer with 5 years of international experience across Japan, India, and Germany. 
+I specialize in building resilient, high-scale distributed systems.
 
 ### 🛠 &nbsp;Languages and Tools :
 
