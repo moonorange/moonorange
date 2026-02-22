@@ -2,7 +2,7 @@
 
 Thank you for visiting my profile.
 
-Senior Backend Engineer with 5 years of international experience across Japan, India, and Germany. 
+Seasoned Backend Engineer with 5 years of international experience across Japan, India, and Germany. 
 I specialize in building resilient, high-scale distributed systems.
 
 ### 🛠 &nbsp;Languages and Tools :
