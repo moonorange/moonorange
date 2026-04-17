@@ -2,7 +2,7 @@
 
 Thank you for visiting my profile.
 
-Software engineer with five years of experience working in engineering teams across Japan, India, and Germany. 
+Software engineer with experience working in engineering teams across Japan, India, and Germany. 
 
 Experienced in building reliable, high-scale backend systems. 
 
